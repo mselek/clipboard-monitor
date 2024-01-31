@@ -42,7 +42,7 @@ If you encounter this problem, give focus to the terminal by clicking on the win
 
 
 ### On which system can I use this script ?
-Currently this script works on Windows only
+This program is specifically designed to run on Windows operating system. No testing has been carried out to ensure compatibility with other operating systems such as Linux or macOS. Therefore, although it can work on these platforms, bugs and errors are possible. For optimal use, I recommend running the program on a Windows system.
 
 ---
 

@@ -7,7 +7,6 @@ This Python script monitors the system clipboard in real time. It shows the new 
 - Saves all text copies during execution to a TXT file.
 
 ---
----
 
 ## How to use it ?
 
@@ -32,7 +31,6 @@ python main.py
 ```
 
 ---
----
 
 ## FAQ
 
@@ -46,13 +44,11 @@ If you encounter this problem, give focus to the terminal by clicking on the win
 Currently this script works on Windows only
 
 ---
----
 
 ## Demo
-![GIF](https://github.com/mselek/clipboard-monitor/blob/master/demo.gif)
+![GIF](https://github.com/mselek/clipboard-monitor/blob/main/demo.gif)
 > Font used in terminal : Consolas, 14pt, bold text
 
----
 ---
 
 ## Authors

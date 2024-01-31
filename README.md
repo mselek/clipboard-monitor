@@ -1,5 +1,6 @@
 # clipboard-monitor
 This Python script monitors the system clipboard in real time. It shows the new text copied to the terminal, as well as the date and time of the copy. The script also provides the ability to save all copies of text during execution to a file in TXT format.
+
 [![Python Version](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-3.9.7/)
 
 ## Features

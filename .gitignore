@@ -1,0 +1,12 @@
+# Cache
+__pycache__/
+**/__pycache__/
+
+# Backup file
+backup.txt
+
+# LOCK file
+LOCK
+
+# .env file
+.env

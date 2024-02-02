@@ -49,8 +49,3 @@ This program is specifically designed to run on Windows operating system. No tes
 ## Demo
 ![GIF](https://github.com/mselek/clipboard-monitor/blob/main/demo.gif)
 > Font used in terminal : Consolas, 14pt, bold text
-
----
-
-## Authors
-- [@mselek](https://www.github.com/mselek)
